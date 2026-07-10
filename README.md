@@ -4,7 +4,6 @@ A full-stack web application designed to provide a centralized platform for mana
 
 Developed as an academic project, this application demonstrates the practical implementation of modern web development technologies, database management, and role-based authentication.
 
----
 
 ## 📖 Project Objectives
 
@@ -16,7 +15,6 @@ Developed as an academic project, this application demonstrates the practical im
 - Reduce manual paperwork through automation.
 - Deliver a responsive and user-friendly experience.
 
----
 
 # ✨ Key Features
 
@@ -49,7 +47,6 @@ Developed as an academic project, this application demonstrates the practical im
 - Email Notifications
 - Secure Email Integration
 
----
 
 # 🛠️ Technology Stack
 
@@ -74,7 +71,6 @@ Developed as an academic project, this application demonstrates the practical im
 ## Database
 - MySQL
 
----
 
 # ⚙️ System Architecture
 
@@ -90,7 +86,6 @@ Developed as an academic project, this application demonstrates the practical im
                  ▼
            MySQL Database
 ```
----
 
 # 📂 Project Structure
 
@@ -123,7 +118,6 @@ PetAdoption&Care
 ├──LICENSE
 └── README.md
 ```
----
 
 # ▶️ Getting Started
 
@@ -189,7 +183,6 @@ The application will be available at:
 ```text
 http://localhost:3000
 ```
----
 
 # 📝 Documentation
 
@@ -205,20 +198,44 @@ Detailed frontend documentation is available in:
 ```text
 frontend/README.md
 ```
----
 
 # 📸 Application Screenshots
 
-### Home Page
-![Home](screenshots/Home.png)
+###  Login Page
+Secure authentication interface with separate Admin and User login options.
 
-### Login Page
-![Login](screenshots/Login.png)
+![Login Page](screenshots/login-page.png)
 
-### Dashboard
-![Dashboard](screenshots/Dashboard.png)
 
----
+###  Dashboard Overview
+Comprehensive dashboard displaying key metrics, analytics, adoption statistics, and quick system insights.
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+
+###  Pet Management
+Manage pet records with features to add, edit, view, and track pet availability and health status.
+
+![Pet Management](screenshots/pet-management.png)
+
+
+###  Adoption Workflow
+Track and manage adoption applications through a structured multi-stage verification and approval process.
+
+![Adoption Workflow](screenshots/adoption-workflow.png)
+
+
+###  Veterinary Records
+Maintain vaccination schedules, treatment history, health records, and upcoming medical reminders.
+
+![Veterinary Records](screenshots/veterinary-records.png)
+
+
+###  Veterinary AI Assistant
+Integrated AI-powered assistant providing veterinary guidance, pet care recommendations, and clinical support through an interactive chatbot.
+
+![Veterinary AI Assistant](screenshots/veterinary-ai-assistant.png)
+
 
 # 🎓Learning Outcomes
 
@@ -234,7 +251,6 @@ This project demonstrates practical knowledge of:
 - Responsive UI Design
 - Software Engineering Principles
 
----
 
 # 💡 Future Enhancements
 
@@ -245,7 +261,6 @@ This project demonstrates practical knowledge of:
 - Real-Time Notifications
 - Advanced Analytics & Reporting
 
----
 
 # 👨‍💻 Author
 
@@ -255,7 +270,6 @@ Bachelor of Computer Applications (BCA)
 
 Passionate about Full Stack Development, Artificial Intelligence, and UI/UX Design.
 
----
 
 # 📄 License
 
