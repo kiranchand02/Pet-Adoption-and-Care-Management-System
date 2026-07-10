@@ -228,13 +228,13 @@ Track and manage adoption applications through a structured multi-stage verifica
 ###  Veterinary Records
 Maintain vaccination schedules, treatment history, health records, and upcoming medical reminders.
 
-![Veterinary Records](screenshots/veterinary-records.png)
+![Veterinary Records](screenshots/veterinary-record.png)
 
 
 ###  Veterinary AI Assistant
 Integrated AI-powered assistant providing veterinary guidance, pet care recommendations, and clinical support through an interactive chatbot.
 
-![Veterinary AI Assistant](screenshots/veterinary-ai-assistant.png)
+![Veterinary AI Assistant](screenshots/veterinary-AI-assistant.png)
 
 
 # 🎓Learning Outcomes
